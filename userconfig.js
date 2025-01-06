@@ -241,7 +241,7 @@ const default_config = {
     },
     {
       name: "myself",
-      background_url: "src/img/banners/cbg-9.gif",
+      background_url: "src/img/banners/cbg-10.gif",
       categories: [
         {
           name: "mails",
