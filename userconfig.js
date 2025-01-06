@@ -57,28 +57,6 @@ const default_config = {
             url: "https://www.youtube.com/",
             icon: "brand-youtube-filled",
             icon_color: "#ea6962",
-          }
-        ],
-      }, {
-        name: "Games",
-        links: [
-          {
-            name: "chess",
-            url: "https://www.chess.com/home",
-            icon: "chess-queen-filled",
-            icon_color: "#a9b665",
-          },
-          {
-            name: "monkeytype",
-            url: "https://monkeytype.com/",
-            icon: "keyboard",
-            icon_color: "#e78a4e",
-          },
-          {
-            name: "tetris",
-            url: "https://tetris.com/",
-            icon: "brand-apple-arcade",
-            icon_color: "#ea6962",
           },
         ],
       }, {
