@@ -30,7 +30,7 @@ const default_config = {
   tabs: [
     {
       name: "money",
-      background_url: "src/img/banners/cbg-2.gif",
+      background_url: "src/img/banners/cbg-3.gif",
       categories: [{
         name: "Social Media",
         links: [
@@ -47,23 +47,17 @@ const default_config = {
             icon_color: "#ffffff",
           },
           {
-            name: "reddit",
-            url: "https://www.reddit.com/",
-            icon: "brand-reddit",
-            icon_color: "#e78a4e",
+            name: "telegram",
+            url: "https://web.telegram.org/k/",
+            icon: "brand-telegram",
+            icon_color: "#4faee7",
           },
           {
             name: "youtube",
             url: "https://www.youtube.com/",
             icon: "brand-youtube-filled",
             icon_color: "#ea6962",
-          },
-          {
-            name: "twitch",
-            url: "https://www.twitch.tv/",
-            icon: "brand-twitch",
-            icon_color: "#d3869b",
-          },
+          }
         ],
       }, {
         name: "Games",
@@ -88,19 +82,19 @@ const default_config = {
           },
         ],
       }, {
-        name: "Video",
+        name: "Trading & Crypto",
         links: [
           {
-            name: "disney+",
-            url: "https://www.disneyplus.com/home",
-            icon: "brand-disney",
+            name: "gmgn",
+            url: "https://gmgn.ai/?chain=sol",
+            icon: "trending-up",
             icon_color: "#7daea3",
           },
           {
-            name: "primevideo",
-            url: "https://www.primevideo.com/region/eu/?ref_=dv_web_unknown",
-            icon: "brand-amazon",
-            icon_color: "#7daea3",
+            name: "cookie.fun",
+            url: "https://www.cookie.fun/",
+            icon: "cookie",
+            icon_color: "#9fd45e",
           },
         ],
       }],
