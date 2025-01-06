@@ -29,7 +29,7 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "chi ll",
+      name: "money",
       background_url: "src/img/banners/cbg-2.gif",
       categories: [{
         name: "Social Media",
@@ -41,10 +41,10 @@ const default_config = {
             icon_color: "#a9b665",
           },
           {
-            name: "twitter",
-            url: "https://twitter.com/home",
-            icon: "brand-twitter-filled",
-            icon_color: "#7daea3",
+            name: "x",
+            url: "https://x.com/home",
+            icon: "brand-x",
+            icon_color: "#ffffff",
           },
           {
             name: "reddit",
