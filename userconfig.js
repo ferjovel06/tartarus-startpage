@@ -72,7 +72,7 @@ const default_config = {
             name: "chess",
             url: "https://www.chess.com/home",
             icon: "chess-queen-filled",
-            icon_color: "#a9b665"
+            icon_color: "#a9b665",
           },
           {
             name: "monkeytype",
