@@ -74,6 +74,12 @@ const default_config = {
             icon: "cookie",
             icon_color: "#9fd45e",
           },
+          {
+            name: "binance",
+            url: "https://www.binance.com/es",
+            icon: "brand-binance",
+            icon_color: "#f0b90b",
+          },
         ],
       }],
     },
